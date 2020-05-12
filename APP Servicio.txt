@@ -1,0 +1,5 @@
+https://www.c-sharpcorner.com/article/web-api-crud-operations-and-consume-service-in-asp-net-mvc-application/
+https://www.c-sharpcorner.com/article/creating-your-own-web-server-using-C-Sharp/
+https://www.c-sharpcorner.com/article/create-simple-web-api-in-asp-net-mvc/
+
+https://docs.microsoft.com/es-es/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1
